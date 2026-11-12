@@ -3,9 +3,7 @@
 Stop guessing how much of your Claude or Codex limit is left.
 This small GNOME extension puts it right in your top bar:
 
-```
- ✳ ▰▰▰▱▱ 42%   ◎ ▰▱▱▱▱ 25%
-```
+![AI Usage in the GNOME top bar: Claude at 52%, Codex at 8%](screenShot.png)
 
 - **✳ Claude** (blue) and **◎ Codex** (green), side by side.
 - The bar fills as you use your 5-hour limit.
