@@ -1,0 +1,7 @@
+{
+  "uuid": "ai-usage@jeo",
+  "name": "AI Usage",
+  "description": "Claude and Codex usage limits in the top bar.",
+  "shell-version": ["3.36"],
+  "version": 1
+}
